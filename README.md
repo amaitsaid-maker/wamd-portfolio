@@ -26,6 +26,6 @@ The layout works on a phone, a tablet and a desktop.
 
 ## How to open
 
-Open `index.html` in Chrome or Firefox. Use DevTools device mode to check phone and tablet widths.
+Open `index.htMl` in Chrome or Firefox. Use DevTools device mode to check phone and tablet widths.
 
-Optional: publish the same folder with GitHub Pages.
+Optional: publie same folder with GitHub Pages.
