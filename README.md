@@ -28,4 +28,3 @@ The layout works on a phone, a tablet and a desktop.
 
 Open `index.htMl` in Chrome or Firefox. Use DevTools device mode to check phone and tablet widths.
 
-Optional: publie same folder with GitHub Pages.
